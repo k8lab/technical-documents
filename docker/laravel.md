@@ -8,8 +8,7 @@
 
 ### extentionインストール
 
-extentionを追加する場合は、下記のコマンドを実行する。  
-extentionに必要なライブラリがあれば実行前にインストールしておく。
+extentionを追加する場合は、下記のコマンドを実行する。  extentionに必要なライブラリがあれば実行前にインストールしておく。
 
 ```bash
 docker-php-ext-install pdo_pgsql
